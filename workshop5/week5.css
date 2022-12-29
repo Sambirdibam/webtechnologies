@@ -1,0 +1,45 @@
+body{
+    background-color: skyblue;
+    color: white;
+}
+
+h1{
+    font-size: 65px;
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 40%;
+    margin-left: 100px;
+    
+}
+h2{
+    padding: 30px;
+    border: 3px solid white;
+    width: fit-content;
+    margin: 100px;
+}
+.venue{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+input{
+    margin-left: 100px;
+    margin-top: 20px;
+    width:fit-content;
+    font-size: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 50px;
+    padding: 20px;
+    font-weight: bold;
+}
+.image{
+    text-align: right;
+    margin-top: -750px;
+    
+
+}
+img{
+    height: 770px;
+    width: 43%;
+}
